@@ -1,6 +1,6 @@
 # Jobs
 
-## Backup for YunXieZuo, google drive, Evernote
+## Backup for YunXieZuo(deprecated), google drive(here.. for the cover letter), Evernote (deprecated)
 
 ## Principles..
 
