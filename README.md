@@ -2,7 +2,7 @@
 
 ## Backup for YunXieZuo(deprecated), google drive(here.. for the cover letter), Evernote (deprecated)
 
-## Principles..
+## 
 
 https://www.indeed.com/career-advice/cover-letter-samples/data-scientist
 
